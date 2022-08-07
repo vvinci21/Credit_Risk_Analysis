@@ -5,17 +5,29 @@ Evaluate several machine learning models to assess credit card risk.
 Use six machine learning models to evaluate which has the highest accuracy and precision in evaluating credit card risk.
 ## Results:
 ### Native Random Oversampling Model
-* 
+* ![Native2](https://github.com/vvinci21/Credit_Risk_Analysis/blob/ccb5ddc5a9d45d839005866a51a6afdeb20ffd22/Images/nativerandomoverreport%202.png)
+* ![Native](https://github.com/vvinci21/Credit_Risk_Analysis/blob/ccb5ddc5a9d45d839005866a51a6afdeb20ffd22/Images/nativerandomover%202.png)
+
 ### SMOTE Model
-* 
+* ![Smote](https://github.com/vvinci21/Credit_Risk_Analysis/blob/ccb5ddc5a9d45d839005866a51a6afdeb20ffd22/Images/smotemodel%202.png)
+* ![Smote2](https://github.com/vvinci21/Credit_Risk_Analysis/blob/8602d650bbe9f928d259f912a83cc5ffd97140e8/Images/smotereport.png)
+
 ### Undersampling Model
-*
+* ![under](https://github.com/vvinci21/Credit_Risk_Analysis/blob/8602d650bbe9f928d259f912a83cc5ffd97140e8/Images/undersample%202.png)
+* ![under2](https://github.com/vvinci21/Credit_Risk_Analysis/blob/6b965ecf0e8273ebb9f4b3c073336021e7383fca/Images/undersamplereport.png)
+
 ### SMOTEENN Model
-* 
+* ![smoteen](https://github.com/vvinci21/Credit_Risk_Analysis/blob/6b965ecf0e8273ebb9f4b3c073336021e7383fca/Images/smoteenmodule%202.png)
+* ![smoteen2](https://github.com/vvinci21/Credit_Risk_Analysis/blob/cecd42028a981080b44c7f3f82a98288272c258f/Images/smoteenreport.png)
+
 ### Balanced Random Rainforest Model
-* 
+* ![balance](https://github.com/vvinci21/Credit_Risk_Analysis/blob/cecd42028a981080b44c7f3f82a98288272c258f/Images/balancedmodule%202.png)
+* ![balance2](https://github.com/vvinci21/Credit_Risk_Analysis/blob/7663304757bc83ab0458b7c88f8c8aeb0a404555/Images/forestreport.png)
+
 ### Easy Ensemble Model
-* 
+* ![easy](https://github.com/vvinci21/Credit_Risk_Analysis/blob/33e06e70f3b4bf6cec0a73785dac7eb63f93d1ce/Images/easymodule%202.png)
+* ![easy2](https://github.com/vvinci21/Credit_Risk_Analysis/blob/7663304757bc83ab0458b7c88f8c8aeb0a404555/Images/easyreportNEW.png)
+
 ## Summary:
 The summary of model results is presented in order of highest accuracy score to lowest accuracy score.
 * The Easy Ensemble model has the highest accuracy score (0.93) and the F-1 score for low risk (0.97) is also the highest. 
